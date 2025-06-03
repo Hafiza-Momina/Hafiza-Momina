@@ -8,7 +8,7 @@
 - 👓 Currently learning Frontend Development <br/>
 - 📫 How to reach me:  [Portfolio](https://hafiza-momina.netlify.app) <br/>
 
-[Momina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hafiza-Momina&show_icons=true&theme=radical)
+![Momina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hafiza-Momina&show_icons=true&theme=radical)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-hafiza-momina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hafizamominaid@gmail.com) 
