@@ -1,4 +1,4 @@
-## Hi I'm Momina! 👋
+## Hi, I'm Momina!
 
 
 - 👩🏽‍💻 Computer systems Engineer working as SQA Engineer manual and automation <br/>
